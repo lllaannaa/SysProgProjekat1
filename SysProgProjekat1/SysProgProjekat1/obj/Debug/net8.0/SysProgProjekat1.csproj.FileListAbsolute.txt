@@ -1,0 +1,14 @@
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\bin\Debug\net8.0\SysProgProjekat1.exe
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\bin\Debug\net8.0\SysProgProjekat1.deps.json
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\bin\Debug\net8.0\SysProgProjekat1.runtimeconfig.json
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\bin\Debug\net8.0\SysProgProjekat1.dll
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\bin\Debug\net8.0\SysProgProjekat1.pdb
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\SysProgProjekat1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\SysProgProjekat1.AssemblyInfoInputs.cache
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\SysProgProjekat1.AssemblyInfo.cs
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\SysProgProjekat1.csproj.CoreCompileInputs.cache
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\SysProgProjekat1.dll
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\refint\SysProgProjekat1.dll
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\SysProgProjekat1.pdb
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\SysProgProjekat1.genruntimeconfig.cache
+C:\Users\Lana\source\repos\SysProgProjekat1\SysProgProjekat1\obj\Debug\net8.0\ref\SysProgProjekat1.dll
